@@ -4,7 +4,7 @@ const client = new Discord.Client()
 
 const sadWords = ["sad", "sorry", "heartbroken", "sorrowful", "heartache", "mourn", "mournful", "dismal", "somber", "grief", "depressed", "melancholy", "hopelessness", "woeful", "despairing", "regretful", "unhappy"]
 
-const starterEncouragements = [
+const encouragements = [
   "Cheer up!",
   "Hang in there.",
   "You are a great person / bot!"
